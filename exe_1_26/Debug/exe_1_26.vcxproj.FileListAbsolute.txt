@@ -1,0 +1,2 @@
+E:\Projects\c\exe_1_26\Debug\exe_1_26.exe
+E:\Projects\c\exe_1_26\Debug\exe_1_26.pdb

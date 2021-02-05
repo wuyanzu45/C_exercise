@@ -1,0 +1,3 @@
+﻿  test.c
+E:\Projects\c\exe_1_26\test.c(44,30): warning C4020: “binary_search”: 实参太多
+  exe_1_26.vcxproj -> E:\Projects\c\exe_1_26\Debug\exe_1_26.exe

@@ -1,0 +1,4 @@
+﻿  test.c
+E:\Projects\c\Exercise\exe_1_29\test.c(5,30): warning C4034: sizeof 返回 0
+E:\Projects\c\Exercise\exe_1_29\test.c(12,10): warning C4048: “int (*)[0]”和“int (*)[10]”数组的下标不同
+  exe_1_29.vcxproj -> E:\Projects\c\Exercise\exe_1_29\Debug\exe_1_29.exe
